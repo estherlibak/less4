@@ -1,5 +1,5 @@
 const func1=()=>{
-     alert("liba")
+     return 'kaplan'
 }
 const func2=()=>{
     return 3
